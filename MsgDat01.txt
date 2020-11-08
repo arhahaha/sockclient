@@ -1,0 +1,14 @@
+#00-03 ( 4 Byte) 電文種別
+#04-05 ( 2 Byte) なにかの区分
+#06-37 (32 Byte) 名称
+#38-49 (11 Byte) 価格
+#50-65 (16 Byte) 商品分類
+#66-66 ( 1 Byte) なにかのフラグ
+DV01AZ転生したらスライムだった件      540000     COMIC           T
+AM22BG超時空要塞マクロス劇場版        12345678900VHS             F
+HT44PTNight of the living dead        256000     DVD             R
+GF03SW死霊のはらわた - Day of the dead12800512000LaserDisc       Y
+KM27HR乙女ゲー世界はモブに厳しい世界で3456789    COMIC           W
+WE58UVBIOHAZARD RE:2                  7980       PS4Disc         C
+DX99ZX伝説巨人イデオン劇場版 発動編   987654321  DVD-BOX         N
+MV42EB必殺シリーズ 仕掛人 梅庵        55667788990BOOK            S
